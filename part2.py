@@ -11,3 +11,10 @@ Hunter
 Hunter
 
 '''
+prompt = int(input("Times to print: "))
+
+num = 1
+
+while num <= prompt:
+  print("Hunter")
+  num = num + 1
